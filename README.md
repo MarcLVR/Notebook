@@ -10,7 +10,7 @@ The purpose of this project is to give possible solutions, in the location of th
 
 I encourage anyone with knowledge and interest in this field to use my work and find out more about the relationship between business, biopharma, or startup clusters and their location and services around the same. I think that these models can be of remarkable interest for all the countries that are developing their clusters to do it successfully, particularly now, that we live a pharmaceutical revolution due to the current situation with Covid-19.
 
-TO SEE PROPERLY THE MAPS INTRODUCE THE NOTEBOOK IN https://nbviewer.org/
+TO SEE PROPERLY THE MAPS INTRODUCE THE Capstone_Clusters(1) NOTEBOOK IN https://nbviewer.org/
 
 
 
